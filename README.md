@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 
 <html lang ="en">
@@ -11,13 +9,6 @@
     <meta name="viewport" content="witdh=device-with, initial-scale=1">
 
     <title>Gundam</title>
-
-    <!-- bootstrap CSS-->
-
- 
-
-    
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
